@@ -1,6 +1,6 @@
 {
-    "name": "darwinmanlapat_website",
-    "short_name": "darwinmanlapat_website",
+    "name": "darwinmanlapat",
+    "short_name": "darwinmanlapat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
